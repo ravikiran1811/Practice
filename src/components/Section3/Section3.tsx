@@ -8,6 +8,7 @@ const Section3=()=>{
             <Details2Component />
             <div>
                 hii git bro do we get conflits now
+                hii git bro em chesthunav
             </div>
         </div>
     )
