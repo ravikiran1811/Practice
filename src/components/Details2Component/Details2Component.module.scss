@@ -1,0 +1,53 @@
+.liststyle {
+  color: whitesmoke;
+  margin-left: 120px;
+  display: flex;
+flex-wrap: wrap;
+
+}
+.list {
+  display: flex;
+ width: 400px;
+    img{
+        margin: 0px;
+    }
+}
+.listText {
+    margin-left: 0px;
+}
+.Details2Styles {
+  color: whitesmoke;
+  display: flex;
+  max-width: 1041px;
+  flex-direction: column;
+  gap: 30px;
+  margin-top: 20px;
+  p {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 40px;
+    letter-spacing: 0em;
+    text-align: center;
+    
+  }
+}
+@media screen and (max-width:360px){
+    .Details2Styles {
+        color: whitesmoke;
+        display: flex;
+        width: 330px;
+        flex-direction: column;
+        gap: 30px;
+        margin-top: 20px;
+        p {
+            font-size: 16px;
+            font-weight: 400;
+            line-height: 28px;
+            letter-spacing: 0em;
+            text-align: left;    
+        }
+      }
+      .liststyle{
+        margin-left: 0px;
+      }
+}

@@ -1,0 +1,17 @@
+.heading {
+  color: whitesmoke;
+
+  font-size: 48px;
+  font-weight: 400;
+  line-height: 59px;
+  letter-spacing: 0em;
+}
+@media screen and (max-width: 360px) {
+  .heading {
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 40px;
+    letter-spacing: 0em;
+    text-align: center;
+  }
+}
