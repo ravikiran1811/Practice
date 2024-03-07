@@ -11,6 +11,7 @@ const Section4=()=>{
         <ImageComponent />
         <div>
           git playing with us
+          manjusha playing with me
         </div>
       </div>  
     )
