@@ -7,6 +7,7 @@ const Section3=()=>{
             <HeadingComponent heading={"Must attend event for founders"} />
             <Details2Component />
             <div>
+                hii git bro do we get conflits now
                 hii git bro em chesthunav
             </div>
         </div>
