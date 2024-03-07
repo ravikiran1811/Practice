@@ -6,6 +6,9 @@ const Section3=()=>{
         <div className={s3.section3}>
             <HeadingComponent heading={"Must attend event for founders"} />
             <Details2Component />
+            <div>
+                hii git bro
+            </div>
         </div>
     )
 }
