@@ -9,6 +9,9 @@ const Section4=()=>{
       <div className={s4.section4}>
         <HeadingComponent heading={"Speakers at SaaSmosphere"} />
         <ImageComponent />
+        <div>
+          we are playing with git
+        </div>
       </div>  
     )
 }
