@@ -10,8 +10,8 @@ const Section4=()=>{
         <HeadingComponent heading={"Speakers at SaaSmosphere"} />
         <ImageComponent />
         <div>
-          we are playing with git
-          ravi sad
+          git playing with us
+          manjusha playing with me
         </div>
       </div>  
     )
